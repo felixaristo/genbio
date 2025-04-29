@@ -5754,9 +5754,13 @@ button.close {
   overflow: hidden;
 }
 
+.carousel-item img{
+  height: 100vh;
+}
+
 .carousel-item {
-  padding-top: 100px;
-  height: 500px;
+  /* padding-top: 100px;
+  height: 500px; */
   position: relative;
   display: none;
   -ms-flex-align: center;

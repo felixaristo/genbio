@@ -222,7 +222,7 @@ button {
 .header_section {
     width: 100%;
     float: left;
-    background-image: url(../images/banner-bg.png);
+    /* background-image: url(../images/banner-bg.png); */
     height: 100vh;
     padding: 20px 0px;
     background-size: cover;
@@ -234,14 +234,14 @@ button {
 }
 
 .logo {
-    width: 86%;
+    /* width: 86%; */
     float: left;
     position: relative;
 }
 .logo img{
     padding: 5px 20px 5px 20px;
     border-radius: 5px;
-    background-color: white;
+    /* background-color: white; */
 }
 
 .menu_main {}
@@ -724,7 +724,7 @@ menu_text {
 .news_section {
     width: 100%;
     float: left;
-    background-image: url(../images/news-bg.png);
+    /* background-image: url(../images/news-bg.png); */
     height: auto;
     background-size: 100%;
     padding-bottom: 190px;
